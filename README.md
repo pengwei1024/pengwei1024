@@ -1,7 +1,13 @@
-### Hi there 👋
+👻 Hey!
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pengwei1024&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true&include_all_commits=true" />
+
+The North Drifter who loves programming.
+
+- 🔭 professional Android Developer
+- 🌱 Toward the sea of stars
 
 <!--
-**pengwei1024/pengwei1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tiann/tiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
