@@ -3,7 +3,7 @@
 
 A North drifter who feels like nothing.
 
-- 🔭 professional Android Developer
+- 🔭 Just a developer
 - 🌱 Debug the universe, Debug the world.
 
 <!--
